@@ -1,0 +1,20 @@
+# Node dependencies
+node_modules
+npm-debug.log
+
+# Git
+.git
+.gitignore
+
+# OS files
+.DS_Store
+
+# Docker-specific
+Dockerfile
+docker-compose.yml
+docker-compose.prod.yml
+
+# Env files (optional – you can copy them explicitly if needed)
+.env*
+.env.local
+.env.development
